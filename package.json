@@ -1,0 +1,19 @@
+{
+  "name": "news_express_frontend",
+  "version": "1.0.0",
+  "description": "HTML, CSS and JS code of the News Express website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paninebaluy/infocaramel_front.git"
+  },
+  "author": "Natalia Dolgushina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paninebaluy/infocaramel_front/issues"
+  },
+  "homepage": "https://github.com/paninebaluy/infocaramel_front#readme"
+}
